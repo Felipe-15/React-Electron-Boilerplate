@@ -6,28 +6,6 @@
 
 body {
   font-size: 8px;
-  font-family: "Noto Sans", sans-serif;
-}
-
-body h1 {
-  font-family: "Source Sans Pro", sans-serif;
-}
-
-body h2 {
-  font-family: "Source Sans Pro", sans-serif;
-}
-
-body h3 {
-  font-family: "Source Sans Pro", sans-serif;
-}
-
-:root {
-  --primary-color: #2589BD;
-  --dark-primary-color: #1E6E99;
-  --standard-background-color: #F8F8F8;
-  --light-gray: #f6f6f6;
-  --white: #fff;
-  --error-color: #DF2935;
 }
 
 .app-container {

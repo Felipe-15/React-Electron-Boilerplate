@@ -1,11 +1,7 @@
-import Header from "./components/Header"
-import Login from "./Templates/Login"
-
 function App() {
   return (
     <div className="app-container">
-      <Header />
-      <Login />
+      <h1>Hello world! :)</h1>
     </div>
   );
 }
